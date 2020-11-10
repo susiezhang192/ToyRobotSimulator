@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ToyRobotSimulator": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\Users\\susie\\Source\\Repos\\ToyRobotSimulator\\ToyRobotSimulator\\test.txt"
+    }
+  }
+}
